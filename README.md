@@ -71,4 +71,4 @@ All clients share a common JSON protocol over WebSocket (mobile) or MQTT (IoT):
 - **Spatial indexing** — Geohash-based efficient nearby vehicle lookups
 - **Collision prediction** — Forward trajectory projection with risk classification
 - **Multi-protocol** — WebSocket (mobile) + MQTT (IoT) with shared vehicle store
-- **Voice & visual alerts** — Color-coded warnings with TTS support.
+- **Voice & visual alerts** — Color-coded warnings with TTS support
